@@ -1,0 +1,11 @@
+name: "app-name"
+type: "go-app"
+settings:
+  - mem: "4GB"
+    cpu: "4"
+    disk: "40GB"
+  - procs: "5"
+    workers: "8"
+    env: "dev"
+
+  
